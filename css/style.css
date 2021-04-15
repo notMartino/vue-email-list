@@ -1,0 +1,28 @@
+/* Porprietà generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cornflowerblue;
+}
+ul{
+    list-style-type: none;
+}
+
+/* Proprietà main */
+main{
+    text-align: center;
+    color: gold;
+    text-shadow: 0 0 2px indigo;
+}
+main h1{    
+    color: lightcyan;
+    margin: 20px 0 ;
+}
+
+#mailList li{
+    margin: 3px 0;
+    font-size: 20px;
+}
